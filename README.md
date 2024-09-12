@@ -49,11 +49,10 @@ The project uses the FuelConsumption.csv dataset, which includes the following f
 
 ## Files in the Repository
 
-- `data_exploration.py`: Code for loading and exploring the dataset
-- `model_training.py`: Code for training and evaluating the regression model
-- `app.py`: Flask application for model deployment (if applicable)
+- `CO2_Emissions_Prediction.ipynb`: Jupyter notebook containing data exploration, preprocessing, and model training
 - `requirements.txt`: List of required Python packages
-- `data/FuelConsumption.csv`: Dataset used for the project
+- `README.md`: This file, containing project information
+- `FuelConsumption.csv`: Dataset used for the project (if you choose to include it)
 
 ## Future Improvements
 
